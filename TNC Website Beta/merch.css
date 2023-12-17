@@ -1,0 +1,39 @@
+body {
+    background-color: #B9D0EB;
+    font-family: monospace;
+}
+
+.home {
+    background-color: cadetblue;
+    color: white;
+    font-size: x-large;
+    border-left-color: white;
+    border-top-color: white;
+    border-bottom-color: black;
+    border-right-color: black;
+    border-right-style: dashed;
+    border-bottom-style: dashed;
+    border-left-style: dotted;
+    border-top-style: dotted;
+    border-bottom: calc(1ver);
+    border-right-width: calc(1ver);
+    display: inline-block;
+    position:absolute;top:0;left:0;
+    margin:auto
+}
+
+.home:hover {
+
+    background-color: blue;
+}
+
+
+.ec-cart-widget{
+    position:absolute;top:0;right:0;
+}
+
+
+.ecwid-pb-placeholder__title {
+    text-align:center;
+}
+

@@ -1,0 +1,58 @@
+body {
+    background-color: #B9D0EB;
+    color: black;
+    font-family: monospace;
+}
+
+.header {
+    font-size: 60px;
+    text-align:center
+}
+
+.text {
+    font-size: 30px;
+}
+
+.news_header {
+    font-size: 50px;
+    text-align:center
+}
+
+.image {
+    float: right;
+}
+
+.button {
+    
+    font-size: calc(1vw + 1vh + 0.5vmin);
+    cursor: pointer;
+    background-color: #b9d0ffce;
+    border-color: white;
+    border-style: dotted;
+    
+
+}
+
+.form {
+    float: left;
+    
+}
+
+.button:hover {
+    background-color: #b9d0ff64;
+    border: none;
+    font-size: calc(1vw + 1vh + 0.5vmin);
+    border-color: white;
+    border-style: dotted;
+}
+
+
+.account-button{
+    position:absolute;top: 0;right:1750px;
+    
+}
+
+.account-logo{
+    position:absolute;top:0;left:0;
+    
+}
